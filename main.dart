@@ -85,7 +85,7 @@ class _HomePageState extends State<HomePage> {
                       itemBuilder: (BuildContext context, int index) {
                         return TattooPic(
                             tattoos[index],
-                            "\n\n\n\n\n\n*insert picture here*\n\n",
+                            "\n\n\n*insert picture here*\n\n",
                             );
                       }))),
 
